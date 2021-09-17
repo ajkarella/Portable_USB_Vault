@@ -5,3 +5,6 @@ If you'd like to use this, create a "vault" folder in the same area as the lock 
    
 Future fixes (if I feel like it):
  - add a check to make sure you don't double encrypt files.
+
+## Directions
+Drag and drop "lock.exe",  "unlock.exe", and "vault" onto your usb stick. Then encrypt any files by running lock.exe
